@@ -3,14 +3,12 @@ Compiler
 Compiler is a very small C interpreter written in Python from scratch. Project was written as a part of course
 Compiler Construction.
 
-* [example1](example1.c)
-* [example2](example2.c)
-* [example3](example3.c)
-* [example4](example4.c)
+* [example1](example_1.c)
+* [example2](example_2.c)
 
 ## Setup
 **Prerequsite**:<br/>
-    - Install [python3.5](https://www.python.org) or later, preferably use a virtualenv.<br/>
+    - Install [python3.7](https://www.python.org) or later, preferably use a virtualenv.<br/>
 
 ### Running interpreter
 To execute c program, run `python3 __main__.py -f <file>`.
